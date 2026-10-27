@@ -78,9 +78,14 @@ If you prefer deploying the frontend and backend on separate specialized platfor
 - Root Directory: `frontend`
 - Framework Preset: `Vite`
 - Environment Variables:
-  - Add `VITE_API_URL` = `https://olympic-api.onrender.com/api`
-- Update `frontend/vercel.json` rewrites to proxy `/api/*` to your backend URL.
+  - Add `VITE_API_URL` = `https://your-service.onrender.com/api` (replace with your actual Render URL)
 - Click **Deploy**.
+
+> [!NOTE]
+> **Render Free Tier Cold-Start Behavior:**
+> Render free web services spin down after 15 minutes of inactivity. When a user accesses the Vercel site after idle time, the first request wakes up the Render container, which takes ~30–45 seconds. The frontend features an automatic retry system and status banner ("Waking Up... / Reconnecting") to handle this seamlessly.
+> 
+> You can also click the status indicator in the top header (`Connect API` / `Render Online`) at any time on the live site to test your Render URL or enter a custom backend URL directly in the browser!
 
 ---
 

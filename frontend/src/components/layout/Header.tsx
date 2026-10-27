@@ -15,7 +15,7 @@ export const Header: React.FC<HeaderProps> = ({
   collapsed,
   overviewSummary,
 }) => {
-  const { filters, updateFilter, metadata } = useFilters();
+  const { filters, updateFilter, metadata, backendStatus, setIsConfigModalOpen } = useFilters();
   const [showPrintModal, setShowPrintModal] = useState<boolean>(false);
   const [showMetricTooltip, setShowMetricTooltip] = useState<boolean>(false);
 
@@ -48,6 +48,34 @@ export const Header: React.FC<HeaderProps> = ({
                 <span className="px-1.5 py-0.2 bg-sky-500/20 text-sky-400 text-[10px] rounded font-bold">CUSTOM</span>
               )}
             </span>
+
+            {/* Backend Connectivity Status Button */}
+            <button
+              onClick={() => setIsConfigModalOpen(true)}
+              className={`text-[11px] font-semibold px-2.5 py-1 rounded-full border transition-colors flex items-center gap-1.5 ${
+                backendStatus === 'connected'
+                  ? 'bg-emerald-950/60 border-emerald-800/80 text-emerald-400 hover:border-emerald-600'
+                  : backendStatus === 'connecting'
+                  ? 'bg-amber-950/60 border-amber-800/80 text-amber-400 hover:border-amber-600'
+                  : 'bg-rose-950/80 border-rose-800/80 text-rose-400 hover:border-rose-600 animate-pulse'
+              }`}
+              title="Click to check or configure Render backend connection"
+            >
+              <span
+                className={`w-1.5 h-1.5 rounded-full ${
+                  backendStatus === 'connected'
+                    ? 'bg-emerald-400'
+                    : backendStatus === 'connecting'
+                    ? 'bg-amber-400 animate-ping'
+                    : 'bg-rose-400'
+                }`}
+              />
+              {backendStatus === 'connected'
+                ? 'Render Online'
+                : backendStatus === 'connecting'
+                ? 'Waking Up...'
+                : 'Connect API'}
+            </button>
           </div>
         </div>
 

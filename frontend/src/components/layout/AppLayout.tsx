@@ -3,6 +3,8 @@ import { Outlet } from 'react-router-dom';
 import { Sidebar } from './Sidebar';
 import { Header } from './Header';
 import { GlobalFilterBar } from './GlobalFilterBar';
+import { BackendStatusBar } from './BackendStatusBar';
+import { BackendStatusModal } from '../common/BackendStatusModal';
 import { CountryModal } from '../common/CountryModal';
 import { SportModal } from '../common/SportModal';
 import { useFilters } from '../../context/FilterContext';
@@ -16,6 +18,9 @@ export const AppLayout: React.FC = () => {
     setSelectedCountryForModal,
     selectedSportForModal,
     setSelectedSportForModal,
+    isConfigModalOpen,
+    setIsConfigModalOpen,
+    retryConnection,
   } = useFilters();
 
   return (
@@ -40,13 +45,19 @@ export const AppLayout: React.FC = () => {
           collapsed={collapsed}
         />
 
-        {/* Global Filter Bar */}
-        <GlobalFilterBar />
+        {/* Content Container padded below fixed header */}
+        <div className="pt-16 flex flex-col flex-1">
+          {/* Cold start / connection status banner */}
+          <BackendStatusBar />
 
-        {/* Dynamic Route Pages */}
-        <main className="flex-1 p-4 lg:p-8 max-w-7xl w-full mx-auto space-y-6">
-          <Outlet />
-        </main>
+          {/* Global Filter Bar */}
+          <GlobalFilterBar />
+
+          {/* Dynamic Route Pages */}
+          <main className="flex-1 p-4 lg:p-8 max-w-7xl w-full mx-auto space-y-6">
+            <Outlet />
+          </main>
+        </div>
       </div>
 
       {/* Global Drilldown Modals */}
@@ -59,6 +70,13 @@ export const AppLayout: React.FC = () => {
       <SportModal
         sport={selectedSportForModal}
         onClose={() => setSelectedSportForModal(null)}
+      />
+
+      {/* Backend Connection & Render Diagnostics Modal */}
+      <BackendStatusModal
+        isOpen={isConfigModalOpen}
+        onClose={() => setIsConfigModalOpen(false)}
+        onConnectionSuccess={() => retryConnection()}
       />
     </div>
   );
