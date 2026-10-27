@@ -1,0 +1,707 @@
+[
+  {
+    "country_noc": "USA",
+    "country_name": "United States",
+    "region": "North America"
+  },
+  {
+    "country_noc": "CAN",
+    "country_name": "Canada",
+    "region": "North America"
+  },
+  {
+    "country_noc": "MEX",
+    "country_name": "Mexico",
+    "region": "North America"
+  },
+  {
+    "country_noc": "CUB",
+    "country_name": "Cuba",
+    "region": "North America"
+  },
+  {
+    "country_noc": "JAM",
+    "country_name": "Jamaica",
+    "region": "North America"
+  },
+  {
+    "country_noc": "BAH",
+    "country_name": "Bahamas",
+    "region": "North America"
+  },
+  {
+    "country_noc": "DOM",
+    "country_name": "Dominican Republic",
+    "region": "North America"
+  },
+  {
+    "country_noc": "TTO",
+    "country_name": "Trinidad and Tobago",
+    "region": "North America"
+  },
+  {
+    "country_noc": "PUR",
+    "country_name": "Puerto Rico",
+    "region": "North America"
+  },
+  {
+    "country_noc": "CRC",
+    "country_name": "Costa Rica",
+    "region": "North America"
+  },
+  {
+    "country_noc": "PAN",
+    "country_name": "Panama",
+    "region": "North America"
+  },
+  {
+    "country_noc": "GUA",
+    "country_name": "Guatemala",
+    "region": "North America"
+  },
+  {
+    "country_noc": "HAI",
+    "country_name": "Haiti",
+    "region": "North America"
+  },
+  {
+    "country_noc": "BAR",
+    "country_name": "Barbados",
+    "region": "North America"
+  },
+  {
+    "country_noc": "BER",
+    "country_name": "Bermuda",
+    "region": "North America"
+  },
+  {
+    "country_noc": "GRN",
+    "country_name": "Grenada",
+    "region": "North America"
+  },
+  {
+    "country_noc": "LCA",
+    "country_name": "Saint Lucia",
+    "region": "North America"
+  },
+  {
+    "country_noc": "DMA",
+    "country_name": "Dominica",
+    "region": "North America"
+  },
+  {
+    "country_noc": "BRA",
+    "country_name": "Brazil",
+    "region": "South America"
+  },
+  {
+    "country_noc": "ARG",
+    "country_name": "Argentina",
+    "region": "South America"
+  },
+  {
+    "country_noc": "COL",
+    "country_name": "Colombia",
+    "region": "South America"
+  },
+  {
+    "country_noc": "CHI",
+    "country_name": "Chile",
+    "region": "South America"
+  },
+  {
+    "country_noc": "VEN",
+    "country_name": "Venezuela",
+    "region": "South America"
+  },
+  {
+    "country_noc": "ECU",
+    "country_name": "Ecuador",
+    "region": "South America"
+  },
+  {
+    "country_noc": "PER",
+    "country_name": "Peru",
+    "region": "South America"
+  },
+  {
+    "country_noc": "URU",
+    "country_name": "Uruguay",
+    "region": "South America"
+  },
+  {
+    "country_noc": "PAR",
+    "country_name": "Paraguay",
+    "region": "South America"
+  },
+  {
+    "country_noc": "BOL",
+    "country_name": "Bolivia",
+    "region": "South America"
+  },
+  {
+    "country_noc": "GUY",
+    "country_name": "Guyana",
+    "region": "South America"
+  },
+  {
+    "country_noc": "SUR",
+    "country_name": "Suriname",
+    "region": "South America"
+  },
+  {
+    "country_noc": "GER",
+    "country_name": "Germany",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "GBR",
+    "country_name": "Great Britain",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "FRA",
+    "country_name": "France",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "ITA",
+    "country_name": "Italy",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "NED",
+    "country_name": "Netherlands",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "RUS",
+    "country_name": "Russia",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "ROC",
+    "country_name": "Russian Olympic Committee",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "EUN",
+    "country_name": "Unified Team",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "NOR",
+    "country_name": "Norway",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "SWE",
+    "country_name": "Sweden",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "ESP",
+    "country_name": "Spain",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "HUN",
+    "country_name": "Hungary",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "POL",
+    "country_name": "Poland",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "SUI",
+    "country_name": "Switzerland",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "AUT",
+    "country_name": "Austria",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "CZE",
+    "country_name": "Czech Republic",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "UKR",
+    "country_name": "Ukraine",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "ROU",
+    "country_name": "Romania",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "BEL",
+    "country_name": "Belgium",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "DEN",
+    "country_name": "Denmark",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "FIN",
+    "country_name": "Finland",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "GRE",
+    "country_name": "Greece",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "BLR",
+    "country_name": "Belarus",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "CRO",
+    "country_name": "Croatia",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "SRB",
+    "country_name": "Serbia",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "SLO",
+    "country_name": "Slovenia",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "IRL",
+    "country_name": "Ireland",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "GEO",
+    "country_name": "Georgia",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "SVK",
+    "country_name": "Slovakia",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "BUL",
+    "country_name": "Bulgaria",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "AZE",
+    "country_name": "Azerbaijan",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "ARM",
+    "country_name": "Armenia",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "TUR",
+    "country_name": "Turkey",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "POR",
+    "country_name": "Portugal",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "LTU",
+    "country_name": "Lithuania",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "LAT",
+    "country_name": "Latvia",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "EST",
+    "country_name": "Estonia",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "MDA",
+    "country_name": "Moldova",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "CYP",
+    "country_name": "Cyprus",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "ISL",
+    "country_name": "Iceland",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "KOS",
+    "country_name": "Kosovo",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "ALB",
+    "country_name": "Albania",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "SMR",
+    "country_name": "San Marino",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "MKD",
+    "country_name": "North Macedonia",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "MNE",
+    "country_name": "Montenegro",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "LUX",
+    "country_name": "Luxembourg",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "LIE",
+    "country_name": "Liechtenstein",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "AIN",
+    "country_name": "Individual Neutral Athletes",
+    "region": "Europe"
+  },
+  {
+    "country_noc": "CHN",
+    "country_name": "China",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "JPN",
+    "country_name": "Japan",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "KOR",
+    "country_name": "South Korea",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "IND",
+    "country_name": "India",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "IRI",
+    "country_name": "Iran",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "KAZ",
+    "country_name": "Kazakhstan",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "UZB",
+    "country_name": "Uzbekistan",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "TPE",
+    "country_name": "Chinese Taipei",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "THA",
+    "country_name": "Thailand",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "PRK",
+    "country_name": "North Korea",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "INA",
+    "country_name": "Indonesia",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "PHI",
+    "country_name": "Philippines",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "HKG",
+    "country_name": "Hong Kong",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "MGL",
+    "country_name": "Mongolia",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "MAS",
+    "country_name": "Malaysia",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "SGP",
+    "country_name": "Singapore",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "VIE",
+    "country_name": "Vietnam",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "QAT",
+    "country_name": "Qatar",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "BRN",
+    "country_name": "Bahrain",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "KUW",
+    "country_name": "Kuwait",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "JOR",
+    "country_name": "Jordan",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "KGZ",
+    "country_name": "Kyrgyzstan",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "TJK",
+    "country_name": "Tajikistan",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "PAK",
+    "country_name": "Pakistan",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "ISR",
+    "country_name": "Israel",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "UAE",
+    "country_name": "United Arab Emirates",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "KSA",
+    "country_name": "Saudi Arabia",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "SYR",
+    "country_name": "Syria",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "LIB",
+    "country_name": "Lebanon",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "IRQ",
+    "country_name": "Iraq",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "AFG",
+    "country_name": "Afghanistan",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "SRI",
+    "country_name": "Sri Lanka",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "TKM",
+    "country_name": "Turkmenistan",
+    "region": "Asia"
+  },
+  {
+    "country_noc": "KEN",
+    "country_name": "Kenya",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "ETH",
+    "country_name": "Ethiopia",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "RSA",
+    "country_name": "South Africa",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "EGY",
+    "country_name": "Egypt",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "NGR",
+    "country_name": "Nigeria",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "ALG",
+    "country_name": "Algeria",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "MAR",
+    "country_name": "Morocco",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "TUN",
+    "country_name": "Tunisia",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "UGA",
+    "country_name": "Uganda",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "ZIM",
+    "country_name": "Zimbabwe",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "CMR",
+    "country_name": "Cameroon",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "CIV",
+    "country_name": "Ivory Coast",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "GHA",
+    "country_name": "Ghana",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "NAM",
+    "country_name": "Namibia",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "BOT",
+    "country_name": "Botswana",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "ZAM",
+    "country_name": "Zambia",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "MOZ",
+    "country_name": "Mozambique",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "BUR",
+    "country_name": "Burkina Faso",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "NIG",
+    "country_name": "Niger",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "TOG",
+    "country_name": "Togo",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "MRI",
+    "country_name": "Mauritius",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "CPV",
+    "country_name": "Cape Verde",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "SEN",
+    "country_name": "Senegal",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "TAN",
+    "country_name": "Tanzania",
+    "region": "Africa"
+  },
+  {
+    "country_noc": "AUS",
+    "country_name": "Australia",
+    "region": "Oceania"
+  },
+  {
+    "country_noc": "NZL",
+    "country_name": "New Zealand",
+    "region": "Oceania"
+  },
+  {
+    "country_noc": "FIJ",
+    "country_name": "Fiji",
+    "region": "Oceania"
+  },
+  {
+    "country_noc": "SAM",
+    "country_name": "Samoa",
+    "region": "Oceania"
+  },
+  {
+    "country_noc": "TGA",
+    "country_name": "Tonga",
+    "region": "Oceania"
+  },
+  {
+    "country_noc": "PNG",
+    "country_name": "Papua New Guinea",
+    "region": "Oceania"
+  }
+]

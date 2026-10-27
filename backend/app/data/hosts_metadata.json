@@ -1,0 +1,173 @@
+[
+  {
+    "edition": "1992 Summer",
+    "year": 1992,
+    "season": "Summer",
+    "city": "Barcelona",
+    "host_country": "Spain",
+    "host_noc": "ESP",
+    "events_count": 257
+  },
+  {
+    "edition": "1992 Winter",
+    "year": 1992,
+    "season": "Winter",
+    "city": "Albertville",
+    "host_country": "France",
+    "host_noc": "FRA",
+    "events_count": 57
+  },
+  {
+    "edition": "1994 Winter",
+    "year": 1994,
+    "season": "Winter",
+    "city": "Lillehammer",
+    "host_country": "Norway",
+    "host_noc": "NOR",
+    "events_count": 61
+  },
+  {
+    "edition": "1996 Summer",
+    "year": 1996,
+    "season": "Summer",
+    "city": "Atlanta",
+    "host_country": "United States",
+    "host_noc": "USA",
+    "events_count": 271
+  },
+  {
+    "edition": "1998 Winter",
+    "year": 1998,
+    "season": "Winter",
+    "city": "Nagano",
+    "host_country": "Japan",
+    "host_noc": "JPN",
+    "events_count": 68
+  },
+  {
+    "edition": "2000 Summer",
+    "year": 2000,
+    "season": "Summer",
+    "city": "Sydney",
+    "host_country": "Australia",
+    "host_noc": "AUS",
+    "events_count": 300
+  },
+  {
+    "edition": "2002 Winter",
+    "year": 2002,
+    "season": "Winter",
+    "city": "Salt Lake City",
+    "host_country": "United States",
+    "host_noc": "USA",
+    "events_count": 78
+  },
+  {
+    "edition": "2004 Summer",
+    "year": 2004,
+    "season": "Summer",
+    "city": "Athens",
+    "host_country": "Greece",
+    "host_noc": "GRE",
+    "events_count": 301
+  },
+  {
+    "edition": "2006 Winter",
+    "year": 2006,
+    "season": "Winter",
+    "city": "Turin",
+    "host_country": "Italy",
+    "host_noc": "ITA",
+    "events_count": 84
+  },
+  {
+    "edition": "2008 Summer",
+    "year": 2008,
+    "season": "Summer",
+    "city": "Beijing",
+    "host_country": "China",
+    "host_noc": "CHN",
+    "events_count": 302
+  },
+  {
+    "edition": "2010 Winter",
+    "year": 2010,
+    "season": "Winter",
+    "city": "Vancouver",
+    "host_country": "Canada",
+    "host_noc": "CAN",
+    "events_count": 86
+  },
+  {
+    "edition": "2012 Summer",
+    "year": 2012,
+    "season": "Summer",
+    "city": "London",
+    "host_country": "Great Britain",
+    "host_noc": "GBR",
+    "events_count": 302
+  },
+  {
+    "edition": "2014 Winter",
+    "year": 2014,
+    "season": "Winter",
+    "city": "Sochi",
+    "host_country": "Russia",
+    "host_noc": "RUS",
+    "events_count": 98
+  },
+  {
+    "edition": "2016 Summer",
+    "year": 2016,
+    "season": "Summer",
+    "city": "Rio de Janeiro",
+    "host_country": "Brazil",
+    "host_noc": "BRA",
+    "events_count": 306
+  },
+  {
+    "edition": "2018 Winter",
+    "year": 2018,
+    "season": "Winter",
+    "city": "Pyeongchang",
+    "host_country": "South Korea",
+    "host_noc": "KOR",
+    "events_count": 102
+  },
+  {
+    "edition": "2020 Summer",
+    "year": 2020,
+    "season": "Summer",
+    "city": "Tokyo",
+    "host_country": "Japan",
+    "host_noc": "JPN",
+    "events_count": 339
+  },
+  {
+    "edition": "2022 Winter",
+    "year": 2022,
+    "season": "Winter",
+    "city": "Beijing",
+    "host_country": "China",
+    "host_noc": "CHN",
+    "events_count": 109
+  },
+  {
+    "edition": "2024 Summer",
+    "year": 2024,
+    "season": "Summer",
+    "city": "Paris",
+    "host_country": "France",
+    "host_noc": "FRA",
+    "events_count": 329
+  },
+  {
+    "edition": "2026 Winter",
+    "year": 2026,
+    "season": "Winter",
+    "city": "Milano-Cortina",
+    "host_country": "Italy",
+    "host_noc": "ITA",
+    "events_count": 116
+  }
+]

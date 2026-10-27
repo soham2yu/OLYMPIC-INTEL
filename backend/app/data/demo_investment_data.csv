@@ -1,0 +1,36 @@
+country_noc,country_name,region,olympic_cycle,reporting_year,investment_amount,currency,is_demo
+USA,United States,North America,2021-2024,2024,1250.0,USD,True
+USA,United States,North America,2017-2020,2020,1100.0,USD,True
+CHN,China,Asia,2021-2024,2024,1400.0,USD,True
+CHN,China,Asia,2017-2020,2020,1300.0,USD,True
+GBR,Great Britain,Europe,2021-2024,2024,420.0,USD,True
+GBR,Great Britain,Europe,2017-2020,2020,390.0,USD,True
+FRA,France,Europe,2021-2024,2024,550.0,USD,True
+JPN,Japan,Asia,2021-2024,2024,480.0,USD,True
+JPN,Japan,Asia,2017-2020,2020,650.0,USD,True
+AUS,Australia,Oceania,2021-2024,2024,380.0,USD,True
+GER,Germany,Europe,2021-2024,2024,360.0,USD,True
+ITA,Italy,Europe,2021-2024,2024,310.0,USD,True
+NED,Netherlands,Europe,2021-2024,2024,190.0,USD,True
+KOR,South Korea,Asia,2021-2024,2024,280.0,USD,True
+CAN,Canada,North America,2021-2024,2024,260.0,USD,True
+BRA,Brazil,South America,2021-2024,2024,160.0,USD,True
+NZL,New Zealand,Oceania,2021-2024,2024,110.0,USD,True
+HUN,Hungary,Europe,2021-2024,2024,120.0,USD,True
+ESP,Spain,Europe,2021-2024,2024,180.0,USD,True
+NOR,Norway,Europe,2021-2024,2024,140.0,USD,True
+SWE,Sweden,Europe,2021-2024,2024,115.0,USD,True
+KEN,Kenya,Africa,2021-2024,2024,35.0,USD,True
+ETH,Ethiopia,Africa,2021-2024,2024,25.0,USD,True
+RSA,South Africa,Africa,2021-2024,2024,45.0,USD,True
+JAM,Jamaica,North America,2021-2024,2024,20.0,USD,True
+CUB,Cuba,North America,2021-2024,2024,30.0,USD,True
+COL,Colombia,South America,2021-2024,2024,50.0,USD,True
+ARG,Argentina,South America,2021-2024,2024,55.0,USD,True
+GEO,Georgia,Europe,2021-2024,2024,22.0,USD,True
+SVK,Slovakia,Europe,2021-2024,2024,30.0,USD,True
+CRO,Croatia,Europe,2021-2024,2024,38.0,USD,True
+SRB,Serbia,Europe,2021-2024,2024,32.0,USD,True
+IRL,Ireland,Europe,2021-2024,2024,85.0,USD,True
+UZB,Uzbekistan,Asia,2021-2024,2024,40.0,USD,True
+BOT,Botswana,Africa,2021-2024,2024,10.0,USD,True
